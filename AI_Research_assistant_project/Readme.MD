@@ -21,3 +21,8 @@ Enhance academic research efficiency.
 ## Target Users
 
 Researchers, students, and academics.
+
+## Architecture 
+
+
+![Project Architecture](images/Arch_1.png)(images/Arch_1.png)
