@@ -25,4 +25,5 @@ Researchers, students, and academics.
 ## Architecture 
 
 
-![Project Architecture](images/Arch_1.png)(images/Arch_1.png)
+![Project Architecture 1](images/Arch_1.png)(images/Arch_1.png)
+![Project Architecture 2](images/Arch_2.png)(images/Arch_2.png)
