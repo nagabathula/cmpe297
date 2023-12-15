@@ -22,6 +22,10 @@ Enhance academic research efficiency.
 
 Researchers, students, and academics.
 
+## Demo & Presention 
+![Demo](Demo/video1465765531.mp4)
+![Presentation](AI%20Research%20Assistant.pptx)
+
 ## Architecture 
 
 
