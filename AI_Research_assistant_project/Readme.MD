@@ -30,6 +30,8 @@ Researchers, students, and academics.
 
 ## Instructions to run the code
 
+Once you download the code to server and setup virtual environment, please run the followig commads
+
 ```python
-def hello_world():
-    print("Hello, World!")
+  pip install -r requirements.txt
+  streamlit run main.py
