@@ -27,3 +27,9 @@ Researchers, students, and academics.
 
 ![Project Architecture 1](images/Arch_1.png)(images/Arch_1.png)
 ![Project Architecture 2](images/Arch_2.png)(images/Arch_2.png)
+
+## Instructions to run the code
+
+```python
+def hello_world():
+    print("Hello, World!")
