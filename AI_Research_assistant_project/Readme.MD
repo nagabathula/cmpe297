@@ -35,3 +35,10 @@ Once you download the code to server and setup virtual environment, please run t
 ```python
   pip install -r requirements.txt
   streamlit run main.py
+
+## Demo Screenshots
+![1](images/Arch_1.png)(images/Demo_1.png)
+![2](images/Arch_2.png)(images/Demo_2.png)
+![3](images/Arch_1.png)(images/Demo_3.png)
+
+
